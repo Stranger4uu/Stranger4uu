@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTech CSE student focused on building strong fundamentals in programming and software development.<br><br>Currently learning AI/ML along with web and app development through hands-on projects.<br><br>Consistently practicing data structures, problem solving, and real-world project building.<br><br>Sharing daily coding progress, experiments, and learning journey through repositories.<br><br>Always improving step by step with a focus on industry-ready skills and collaboration.
+CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills one project at a time.<br><br>Worked with a Dream11-based company, Sostronk, gaining real-world experience.<br><br>Sharing daily coding progress and learning in public to stay consistent and accountable.<br><br>Focused on learning deeply, building practically, and improving every single day.<br><br>Always improving step by step with a focus on industry-ready skills and collaboration.<br><br>I believe in actions over motion — less talk, more building. 🚀
 
 
 ## 🌐 Socials:
