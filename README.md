@@ -11,12 +11,15 @@ CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+
+  <img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact" width="60%" />
+  <img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact" height="200"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stranger4uu&theme=github-compact&hide_border=true" height="200"/>
 </p>
 
 
