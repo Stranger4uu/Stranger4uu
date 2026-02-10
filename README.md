@@ -9,9 +9,13 @@ CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Stranger4uu&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
