@@ -29,10 +29,6 @@ CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills
 
 </div>
 
-
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
