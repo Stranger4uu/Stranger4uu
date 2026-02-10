@@ -10,11 +10,15 @@ CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" width="48%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact" width="60%" />
+</p>
 
-![Top Languages](https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact)
 
 
 
