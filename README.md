@@ -1,10 +1,10 @@
 ![](https://pbs.twimg.com/profile_banners/1848325229627502593/1770471348/1500x500)
 # 💫 About Me:
-CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills one project at a time.<br><br>I know the art of AI
-• Why to use it
-• when to use it
-• how to shape it
-• which tool to choose 
+CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills one project at a time.<br><br>I know the art of AI<br>
+• Why to use it<br>
+• when to use it<br>
+• how to shape it<br>
+• which tool to choose <br>
 and i guess that’s enough to survive in this era.<br><br>Worked with a Dream11-based company, Sostronk, gaining real world experience.<br><br>Sharing daily coding progress and learning in public to stay consistent and accountable.<br><br>Focused on learning deeply, building practically, and improving every single day.<br><br>Always improving step by step with a focus on industry ready skills and collaboration.<br><br>I believe in actions over motion — less talk, more building. 🚀
 
 
