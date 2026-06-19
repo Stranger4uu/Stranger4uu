@@ -7,7 +7,6 @@ CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills
 • Which tool to choose <br>
 and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dream11-based company, Sostronk, gaining real world experience.<br><br>Sharing daily coding progress and learning in public to stay consistent and accountable.<br><br>Focused on learning deeply, building practically, and improving every single day.<br><br>Always improving step by step with a focus on industry ready skills and collaboration.<br><br>I believe in actions over motion — less talk, more building. 🚀
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_stranger4u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashhere4uu/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Stranger4uu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Yashhere86)
 
