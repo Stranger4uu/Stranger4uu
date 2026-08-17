@@ -1,6 +1,6 @@
 ![](https://pbs.twimg.com/profile_banners/1848325229627502593/1770471348/1500x500)
 # 💫 About Me:
-Full stack developer (Flutter/Firebase)<br><br>CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills one project at a time.<br><br>I know the art of AI<br>
+Full stack developer<br><br>CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills one project at a time.<br><br>I know the art of AI<br>
 • Why to use it<br>
 • When to use it<br>
 • How to shape it<br>
