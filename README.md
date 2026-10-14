@@ -1,6 +1,6 @@
 ![](https://pbs.twimg.com/profile_banners/1848325229627502593/1770471348/1500x500)
 # 💫 About Me:
-Full stack developer<br><br>CS major exploring Machine Learning, Flutter, and DSA in C++ — building skills one project at a time.<br><br>I know the art of AI<br>
+Backend developer<br><br>CS major exploring Development, and DSA in C++ — building skills one project at a time.<br><br>I know the art of AI<br>
 • Why to use it<br>
 • When to use it<br>
 • How to shape it<br>
@@ -36,7 +36,7 @@ and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dr
 </td>
 <td align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stranger4uu&theme=github-compact&hide_border=true" height="200"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stranger4uu&theme=github-compact&hide_border=true)
 
 </td>
 </tr>
