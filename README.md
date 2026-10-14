@@ -21,7 +21,8 @@ and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dr
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" width="660" alt="GitHub Streak"/>
 </p>
-# ✍️ Random Dev Quote:
+
+### ✍️ Random Dev Quote:
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
