@@ -14,6 +14,8 @@ and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Backend](https://img.shields.io/badge/Backend-121011.svg?style=flat&logo=serverfault&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=flat&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
 
+# 📊 GitHub Stats:
+
 <table align="center">
 <tr>
 <td align="center">
@@ -36,7 +38,20 @@ and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dr
 </td>
 <td align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stranger4uu&theme=github-compact&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=Stranger4uu&theme=discord&no-frame=true&no-bg=true&row=2&column=3" height="200"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Stranger4uu&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200"/>
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&show_icons=true&theme=aura&hide_border=false&hide_title=true&rank_icon=github&include_all_commits=true" height="200"/>
 
 </td>
 </tr>
