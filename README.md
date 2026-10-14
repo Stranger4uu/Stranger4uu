@@ -16,47 +16,16 @@ and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dr
 
 # 📊 GitHub Stats:
 
-<table align="center">
-<tr>
-<td align="center">
+<div align="center">
 
-<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" height="180" alt="GitHub Streak"/>
 
-</td>
-<td align="center">
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" height="200"/>
+<img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact&langs_count=8" width="60%" alt="Top Languages"/>
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact" height="200"/>
-
-</td>
-<td align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Stranger4uu&theme=discord&no-frame=true&no-bg=true&row=2&column=3" height="200"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Stranger4uu&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200"/>
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&show_icons=true&theme=aura&hide_border=false&hide_title=true&rank_icon=github&include_all_commits=true" height="200"/>
-
-</td>
-</tr>
-</table>
-
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
