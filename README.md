@@ -13,17 +13,14 @@ and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dr
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Backend](https://img.shields.io/badge/Backend-121011.svg?style=flat&logo=serverfault&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=flat&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact&langs_count=6" height="150" alt="Top Languages"/>
+</p>
 
-# 📊 GitHub Stats:
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" height="180" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=Stranger4uu&theme=aura&hide_border=false&layout=compact&langs_count=8" width="60%" alt="Top Languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" width="660" alt="GitHub Streak"/>
+</p>
 
 </div>
 ### ✍️ Random Dev Quote
