@@ -1,6 +1,6 @@
 ![](https://pbs.twimg.com/profile_banners/1848325229627502593/1770471348/1500x500)
 # 💫 About Me:
-Backend developer<br><br>CS major exploring Development, and DSA in C++ — building skills one project at a time.<br><br>I know the art of AI<br>
+Backend developer<br><br>CS major exploring Development, System Design and DSA in C++ — building skills one project at a time.<br><br>I know the art of AI<br>
 • Why to use it<br>
 • When to use it<br>
 • How to shape it<br>
@@ -11,7 +11,7 @@ and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dr
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_stranger4u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashhere4uu/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Stranger4uu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Yashhere86)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Backend](https://img.shields.io/badge/Backend-121011.svg?style=flat&logo=serverfault&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=flat&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Backend](https://img.shields.io/badge/Backend-121011.svg?style=flat&logo=serverfault&logoColor=white) ![System Design](https://img.shields.io/badge/System%20Design-6C3483.svg?style=flat&logo=diagramsdotnet&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=flat&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Stranger4uu&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="GitHub Stats"/>
@@ -21,12 +21,13 @@ and i guess that’s enough to survive in this era.<br><br>Also Worked with a Dr
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Stranger4uu&theme=aura&hide_border=false" width="660" alt="GitHub Streak"/>
 </p>
-
-</div>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Stranger4uu&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
